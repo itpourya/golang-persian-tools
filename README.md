@@ -7,7 +7,7 @@ Golang implementation of [Persian-Tools](https://github.com/persian-tools/persia
 ## Modules
 - add_ordinal_suffix :white_check_mark:
 - arabic_chars :white_check_mark:
-- bill :x:
+- bill :white_check_mark:
 - commas :white_check_mark:
 - digits :x:
 - extract_card_number :x:
