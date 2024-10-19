@@ -9,7 +9,7 @@ Golang implementation of [Persian-Tools](https://github.com/persian-tools/persia
 - arabic_chars :white_check_mark:
 - bill :white_check_mark:
 - commas :white_check_mark:
-- digits :x:
+- digits :white_check_mark:
 - extract_card_number :x:
 - find_capital_by_province :white_check_mark:
 - get_bank_name_by_card_number :white_check_mark:
