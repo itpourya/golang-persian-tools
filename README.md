@@ -23,6 +23,6 @@ Golang implementation of [Persian-Tools](https://github.com/persian-tools/persia
 - remove_ordinal_suffix :x:
 - sheba :x:
 - time_ago :x:
-- url_fix :x:
+- url_fix :white_check_mark:
 - verity_card_number :x:
 - words_to_number :x:
